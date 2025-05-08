@@ -1,0 +1,1 @@
+Recurrent Neural Networks, or RNNs, are a type of neural network made to process data that comes in sequences. Unlike standard neural networks, which handle data independently, RNNs have connected nodes that loop back onto themselves.  https://www.globaltechcouncil.org/ai/recurrent-neural-networks/
